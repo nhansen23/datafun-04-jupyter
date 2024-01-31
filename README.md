@@ -9,6 +9,7 @@ git clone in native terminal
 ## New Items
 '''
 create .venv, .gitignore, and requirements.txt
+ni nicole_eda.ipynb
 '''
 
 ## Activate Virtual Environment
@@ -42,3 +43,4 @@ git commit -m "initial commit"
 # Push to GitHub
 git push origin main
 '''
+
